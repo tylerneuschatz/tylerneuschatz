@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler Neuschatz</h1>
-<h3 align="center">A passionate full-stack developer from Denver, CO now living in Orange County, CA</h3>
+<h3 align="center">A passionate full-stack developer living in Orange County, CA</h3>
 
 - 🌱 I’m currently learning **Full stack Javascript - HTML, CSS, JS, Node, React, and MongoDB!**
 
