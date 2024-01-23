@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full stack Javascript - HTML, CSS, JS, Node, and React
 
-- 👨‍💻 All of my projects are available at [https://tyler-neuschatz.netlify.app/](https://tyler-neuschatz.netlify.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **HTML, CSS, JS, Node, and React
 
