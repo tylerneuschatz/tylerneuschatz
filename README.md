@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at 
 - 💬 Ask me about **HTML, CSS, JS, Node, React, and MongoDB**
-- 📫 How to reach me **tylertne@gmail.com**
+- 📫 Send me an email at: **tylertne@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tylerneuschatz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tylerneuschatz" height="30" width="40" /></a>
