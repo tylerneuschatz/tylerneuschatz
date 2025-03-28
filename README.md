@@ -1,10 +1,7 @@
 <h1 align="center">Hi, I'm Tyler Neuschatz</h1>
-<h3 align="center">A full-stack developer living in Orange County, CA</h3>
 
-- 🌱 I’m currently learning **Full stack Javascript - HTML, CSS, JS, Node, React, and MongoDB!**
+- 🌱 I’m currently learning **Full stack Javascript - HTML, CSS, JS, Node, React, and MongoDB**
 
-- 👨‍💻 All of my projects are available at 
-- 💬 Ask me about **HTML, CSS, JS, Node, React, and MongoDB**
 - 📫 Send me an email at: **tylertne@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
